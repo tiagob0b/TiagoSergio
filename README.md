@@ -1,4 +1,5 @@
-#👋 Hi, I’m @Ti@goB0B#
+# 👋 Hi, I’m @Ti@goB0B
+
 
 🌱 I’m currently learning, this is my repository, where I will share the projects that I will create and also others that I find interesting, so I make the search easier!
 
