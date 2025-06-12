@@ -11,8 +11,8 @@
 ### Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiagosergiobarbosaferreira/) 
 
-![tiagob0b's Stats](https://github-readme-stats.vercel.app/api?username=tiagob0b&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 
-![tiagob0b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagob0b&theme=shades-of-purple&hide_border=true)
 
-![tiagob0b's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagob0b&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+### Status
+![tiagob0b's Stats](https://github-readme-stats.vercel.app/api?username=tiagob0b&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true) ![tiagob0b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagob0b&theme=shades-of-purple&hide_border=true)
+
